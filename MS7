@@ -1,3 +1,2 @@
-  --يـعـني تـتوقـع مامشـفــر؟ 
-  --هـوه مامـشفر روح اخذه حــلالك
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/MS7/refs/heads/main/MS7HUBV0.2.txt"))()
+  --شـتريد ابن الــحلوه
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/MS7/refs/heads/main/MS7V0.2.txt"))()
