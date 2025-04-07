@@ -23,13 +23,6 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-	Name = "! انسـخ السـكربت الجـديد !",
-	Callback = function()
-	setclipboard("loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/K7/refs/heads/main/K7"))()")
-  	end    
-})
-
-Tab:AddButton({
 	Name = "! انسـخ اسـم السـكربت في الغيـمه !",
 	Callback = function()
 	setclipboard("K7 HUB")
